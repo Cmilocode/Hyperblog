@@ -6,3 +6,5 @@ nacido en Colombia viviendo en todo el mundo
 Hoy hablaremos de mi historia.
 
 En camara parece alto pero la verdad no lo es
+
+Hoy es Frontend Developer.
